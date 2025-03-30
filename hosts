@@ -2,37 +2,17 @@
 ::1             ip6-localhost
 # 请将 hosts 内容粘贴在此行下方
 # DMHY Start
-104.25.27.31	dmhy.org
-104.25.27.31	www.dmhy.org
-104.25.27.31	share.dmhy.org
-104.25.27.31	bbs.dmhy.org
-104.25.27.31	dl.dmhy.org
-104.25.27.31	u2.dmhy.org
+104.25.61.106	dmhy.org
+2606:4700:20::6819:3d6a	dmhy.org
+104.25.61.106	www.dmhy.org
+2606:4700:20::6819:3d6a	www.dmhy.org
+104.25.61.106	share.dmhy.org
+2606:4700:20::6819:3d6a	share.dmhy.org
+104.25.61.106	u2.dmhy.org
+2606:4700:20::6819:3d6a	u2.dmhy.org
+104.25.61.106	bbs.dmhy.org
+2606:4700:20::6819:3d6a	bbs.dmhy.org
+104.25.61.106	dl.dmhy.org
+2606:4700:20::6819:3d6a	dl.dmhy.org
 # DMHY End
 # 请将 hosts 内容粘贴在此行上方
-
-# DuckDuckGo Start
-20.43.161.105	duckduckgo.com
-20.43.161.105	www.duckduckgo.com
-20.43.161.105	ac.duckduckgo.com
-20.43.161.105	start.duckduckgo.com
-20.43.161.105	help.duckduckgo.com
-20.43.160.189	icons.duckduckgo.com
-20.43.160.189	proxy.duckduckgo.com
-20.43.160.189	images.duckduckgo.com
-20.43.160.189	improving.duckduckgo.com
-20.43.160.189	external-content.duckduckgo.com
-20.43.161.105	lite.duckduckgo.com
-# DuckDuckGo End
-
-# 115 Start
-47.113.23.100      appversion.115.com
-47.113.23.100      passportapi.115.com
-47.113.23.100      my.115.com
-47.113.23.100      qrcodeapi.115.com
-47.113.23.100      passportapi.115.com
-47.113.23.100      webapi.115.com
-47.113.23.100      aps.115.com
-47.113.23.100      proapi.115.com
-47.113.23.100      uplb.115.com
-# 115 End
