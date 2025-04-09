@@ -1,4 +1,2 @@
 payload:
-#----自定义规则 格式请参考教程------------
-  - DOMAIN-SUFFIX,bbs.acgrip.com
-#----------------------------------------
+  - DOMAIN,bbs.acgrip.com
