@@ -16,3 +16,6 @@
 2606:4700:20::6819:3d6a	dl.dmhy.org
 # DMHY End
 # 请将 hosts 内容粘贴在此行上方
+
+142.250.66.139 translate.googleapis.com
+142.250.66.139 translate-pa.googleapis.com
