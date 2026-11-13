@@ -17,7 +17,634 @@
 # DMHY End
 # 请将 hosts 内容粘贴在此行上方
 
-142.250.4.17 translate.googleapis.com
-142.250.4.17 translate.google.com
-142.250.4.17 translate-pa.googleapis.com
-142.250.4.17 jnn-pa.googleapis.com
+# 微软更新目录(Update Catalog)补丁下载 - Microsoft Live - 微软全家桶
+58.251.87.185 catalog.sf.dl.delivery.mp.microsoft.com
+# Rewards - Microsoft Live - 微软全家桶
+104.212.68.65 rewards.bing.com
+# 微软Teams - 微软Teams 访问 - Microsoft Live - 微软全家桶
+52.113.195.132 teams.microsoft.com
+52.113.195.132 config.teams.microsoft.com
+# 微软Teams - 微软Teams API 2 - Microsoft Live - 微软全家桶
+20.23.50.66 msgapi.teams.live.com
+# 微软Teams - 微软Teams 静态资源1 - Microsoft Live - 微软全家桶
+23.33.184.249 statics.teams.cdn.live.net
+# 微软Teams - 微软Teams 静态资源2 - Microsoft Live - 微软全家桶
+23.33.184.250 statics.teams.cdn.office.net
+# 微软全家桶相关/Windows/Surface/VS 镜像下载 - Microsoft Live - 微软全家桶
+183.250.178.6 oemsocuat.download.prss.microsoft.com
+183.250.178.6 dreamspark.download.prss.microsoft.com
+183.250.178.6 msproductuat.download.prss.microsoft.com
+183.250.178.6 db.download.prss.microsoft.com
+183.250.178.6 storecorefulfillment.download.prss.microsoft.com
+183.250.178.6 vlportal.download.prss.microsoft.com
+183.250.178.6 surface.download.prss.microsoft.com
+183.250.178.6 collaborateppe.download.prss.microsoft.com
+183.250.178.6 volic.download.prss.microsoft.com
+183.250.178.6 itacademy.download.prss.microsoft.com
+183.250.178.6 officemkt.download.prss.microsoft.com
+183.250.178.6 msconnect.download.prss.microsoft.com
+183.250.178.6 mbsuat.download.prss.microsoft.com
+183.250.178.6 rsm.download.prss.microsoft.com
+183.250.178.6 software-static.download.prss.microsoft.com
+183.250.178.6 myvsuat.download.prss.microsoft.com
+183.250.178.6 rsmuat.download.prss.microsoft.com
+183.250.178.6 msdprod-ad.download.prss.microsoft.com
+183.250.178.6 oemsoc.download.prss.microsoft.com
+183.250.178.6 itacademyuat.download.prss.microsoft.com
+183.250.178.6 azurestackhubuat.download.prss.microsoft.com
+183.250.178.6 osrelease.download.prss.microsoft.com
+183.250.178.6 mpnbenefitsrtl.download.prss.microsoft.com
+183.250.178.6 azurestackreleases.download.prss.microsoft.com
+183.250.178.6 msdn.download.prss.microsoft.com
+183.250.178.6 myvs.download.prss.microsoft.com
+183.250.178.6 lex.download.prss.microsoft.com
+183.250.178.6 cbdstest.download.prss.microsoft.com
+183.250.178.6 software.download.prss.microsoft.com
+183.250.178.6 azuremigratetest.download.prss.microsoft.com
+183.250.178.6 collaborate.download.prss.microsoft.com
+183.250.178.6 mpnbenefitsrtluat.download.prss.microsoft.com
+183.250.178.6 windbg.download.prss.microsoft.com
+183.250.178.6 msproduct.download.prss.microsoft.com
+183.250.178.6 azuremigrate.download.prss.microsoft.com
+183.250.178.6 officemktuat.download.prss.microsoft.com
+183.250.178.6 afdshield-or.download.prss.microsoft.com
+183.250.178.6 dreamsparkuat.download.prss.microsoft.com
+183.250.178.6 mbs.download.prss.microsoft.com
+183.250.178.6 azurestackhub.download.prss.microsoft.com
+183.250.178.6 visualstudio.download.prss.microsoft.com
+183.250.178.6 lexuat.download.prss.microsoft.com
+183.250.178.6 mpnbenefits.download.prss.microsoft.com
+# 微软Office - Office 在线查看器 - Microsoft Live - 微软全家桶
+13.107.42.16 view.officeapps.live.com
+13.107.42.16 excel.officeapps.live.com
+13.107.42.16 powerpoint.officeapps.live.com
+13.107.42.16 word-edit.officeapps.live.com
+13.107.42.16 word-view.officeapps.live.com
+13.107.42.16 visio.officeapps.live.com
+13.107.42.16 onenote.officeapps.live.com
+# 微软Office - Office 在线安装 - Microsoft Live - 微软全家桶
+117.162.12.174 officecdn.microsoft.com
+117.162.12.174 f.c2r.ts.cdn.office.net
+# 微软支持社区(answers) - Microsoft Live - 微软全家桶
+23.50.29.176 answers.microsoft.com
+# 微软邮件(outlook) - Microsoft Live - 微软全家桶
+40.100.45.210 outlook.office.com
+40.100.45.210 outlook.office365.com
+# Bing必应搜索 - Microsoft Live - 微软全家桶
+202.89.233.100 bing.com
+202.89.233.100 www.bing.com
+202.89.233.100 r.bing.com
+202.89.233.100 cn.bing.com
+202.89.233.100 edgeservices.bing.com
+202.89.233.100 www.bingapis.com
+202.89.233.100 www2.bing.com
+202.89.233.100 sydney.bing.com
+# Edge - Edge新建标签页图片 - Microsoft Live - 微软全家桶
+219.76.10.200 img-s-msn-com.akamaized.net
+219.76.10.200 img-prod-cms-rt-microsoft-com.akamaized.net
+# Edge - Edge 扩展下载 - Microsoft Live - 微软全家桶
+211.91.65.221 msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
+# Edge - Edge 解决无法翻译2 - Microsoft Live - 微软全家桶
+20.49.96.128 api.cognitive.microsofttranslator.com
+# Edge - Edge 解决扩展无法安装/无法翻译1 - Microsoft Live - 微软全家桶
+104.212.68.32 edge.microsoft.com
+# 微软登录相关 - 微软账户管理-1 - Microsoft Live - 微软全家桶
+118.214.242.164 account.microsoft.com
+# 微软登录相关 - 微软账户管理-2 - Microsoft Live - 微软全家桶
+13.107.42.22 account.live.com
+# 微软登录相关 - 微软账户登陆-1 - Microsoft Live - 微软全家桶
+13.107.213.49 logincdn.msauth.net
+13.107.213.49 acctcdn.msauth.net
+13.107.213.49 acctcdn.msftauth.net
+13.107.213.49 amcdn.msftauth.net
+13.107.213.49 alcdn.msftauth.net
+13.107.213.49 ccscdn.msftauth.net
+# 微软登录相关 - 微软账户登陆-2 - Microsoft Live - 微软全家桶
+40.126.35.87 login.live.com
+# 微软登录相关 - 微软账户登陆-3 - Microsoft Live - 微软全家桶
+40.126.35.128 login.microsoftonline.com
+# 微软登录相关 - 微软账户登陆-4 - Microsoft Live - 微软全家桶
+104.84.150.32 aadcdn.msftauth.net
+# 微软授权验证 - Microsoft Live - 微软全家桶
+20.247.184.142 licensing.mp.microsoft.com
+# Onedrive/OneNote - OneNote同步(文档结构) - Microsoft Live - 微软全家桶
+52.109.12.61 hierarchyapi.onenote.com
+# Onedrive/OneNote - OneNote同步(媒体文件) - Microsoft Live - 微软全家桶
+52.109.44.57 contentsync.onenote.com
+# Onedrive/OneNote - OneDrive 下载(网页/目录) - Microsoft Live - 微软全家桶
+40.90.130.192 storage.live.com
+# Onedrive/OneNote - OneDrive 下载(网页/单文件) - Microsoft Live - 微软全家桶
+13.107.42.12 public.bn.files.1drv.com
+# Onedrive/OneNote - OneDrive上传(客户端) - Microsoft Live - 微软全家桶
+13.107.42.12 bn1301.storage.live.com
+13.107.42.12 ams03pap004.storage.live.com
+13.107.42.12 ams03pap004files.storage.live.com
+13.107.42.12 ams03pap005.storage.live.com
+13.107.42.12 ams03pap005files.storage.live.com
+13.107.42.12 blz04pap001.storage.live.com
+13.107.42.12 blz04pap001files.storage.live.com
+13.107.42.12 blz04pap002.storage.live.com
+13.107.42.12 blz04pap002files.storage.live.com
+13.107.42.12 blz04pap003.storage.live.com
+13.107.42.12 blz04pap003files.storage.live.com
+13.107.42.12 blz04pap004.storage.live.com
+13.107.42.12 blz04pap004files.storage.live.com
+13.107.42.12 blz04pap005.storage.live.com
+13.107.42.12 blz04pap005files.storage.live.com
+13.107.42.12 blz04pap006.storage.live.com
+13.107.42.12 blz04pap006files.storage.live.com
+13.107.42.12 blz04pap007.storage.live.com
+13.107.42.12 blz04pap007files.storage.live.com
+13.107.42.12 bn02pap090.storage.live.com
+13.107.42.12 bn02pap090files.storage.live.com
+13.107.42.12 bnz05pap001.storage.live.com
+13.107.42.12 bnz05pap001files.storage.live.com
+13.107.42.12 bnz05pap002.storage.live.com
+13.107.42.12 bnz05pap002files.storage.live.com
+13.107.42.12 bnz06pap001.storage.live.com
+13.107.42.12 bnz06pap001files.storage.live.com
+13.107.42.12 bnz06pap002.storage.live.com
+13.107.42.12 bnz06pap002files.storage.live.com
+13.107.42.12 bnz06pap003.storage.live.com
+13.107.42.12 bnz06pap003files.storage.live.com
+13.107.42.12 bnz06pap004.storage.live.com
+13.107.42.12 bnz06pap004files.storage.live.com
+13.107.42.12 bnz07pap001.storage.live.com
+13.107.42.12 bnz07pap001files.storage.live.com
+13.107.42.12 chi01pap001.storage.live.com
+13.107.42.12 chi01pap002.storage.live.com
+13.107.42.12 chi01pap002.storage.live.com
+13.107.42.12 chi01pap002files.storage.live.com
+13.107.42.12 dsm01pap004.storage.live.com
+13.107.42.12 dsm01pap004files.storage.live.com
+13.107.42.12 dsm01pap005.storage.live.com
+13.107.42.12 dsm01pap005files.storage.live.com
+13.107.42.12 dsm01pap006.storage.live.com
+13.107.42.12 dsm01pap006files.storage.live.com
+13.107.42.12 dsm01pap007.storage.live.com
+13.107.42.12 dsm01pap007files.storage.live.com
+13.107.42.12 dsm01pap008.storage.live.com
+13.107.42.12 dsm01pap008files.storage.live.com
+13.107.42.12 dsm01pap009.storage.live.com
+13.107.42.12 dsm01pap009files.storage.live.com
+13.107.42.12 dsm01pap090.storage.live.com
+13.107.42.12 dsm01pap090files.storage.live.com
+13.107.42.12 dsm04pap001.storage.live.com
+13.107.42.12 dsm04pap001files.storage.live.com
+13.107.42.12 dsm04pap002.storage.live.com
+13.107.42.12 dsm04pap002files.storage.live.com
+13.107.42.12 dsm04pap003.storage.live.com
+13.107.42.12 dsm04pap003files.storage.live.com
+13.107.42.12 dub01pap003.storage.live.com
+13.107.42.12 dub01pap003files.storage.live.com
+13.107.42.12 dub07pap001.storage.live.com
+13.107.42.12 dub07pap001files.storage.live.com
+13.107.42.12 dub07pap002.storage.live.com
+13.107.42.12 dub07pap002files.storage.live.com
+13.107.42.12 phx02pap001.storage.live.com
+13.107.42.12 phx02pap001files.storage.live.com
+13.107.42.12 phx02pap002.storage.live.com
+13.107.42.12 phx02pap002files.storage.live.com
+13.107.42.12 phx02pap003.storage.live.com
+13.107.42.12 phx02pap003files.storage.live.com
+13.107.42.12 phx02pap004.storage.live.com
+13.107.42.12 phx02pap004files.storage.live.com
+13.107.42.12 phx02pap005.storage.live.com
+13.107.42.12 phx02pap005files.storage.live.com
+13.107.42.12 phx02pap006.storage.live.com
+13.107.42.12 phx02pap006files.storage.live.com
+13.107.42.12 phx02pap007.storage.live.com
+13.107.42.12 phx02pap007files.storage.live.com
+13.107.42.12 phx02pap008.storage.live.com
+13.107.42.12 phx02pap008files.storage.live.com
+13.107.42.12 sat02pap001.storage.live.com
+13.107.42.12 sat02pap001files.storage.live.com
+13.107.42.12 sat02pap002.storage.live.com
+13.107.42.12 sat02pap002files.storage.live.com
+13.107.42.12 sat02pap003.storage.live.com
+13.107.42.12 sat02pap003files.storage.live.com
+13.107.42.12 sat02pap004.storage.live.com
+13.107.42.12 sat02pap004files.storage.live.com
+13.107.42.12 sat02pap005.storage.live.com
+13.107.42.12 sat02pap005files.storage.live.com
+13.107.42.12 sjc04pap001.storage.live.com
+13.107.42.12 sjc04pap001files.storage.live.com
+13.107.42.12 sjc04pap002.storage.live.com
+13.107.42.12 sjc04pap002files.storage.live.com
+# XBOX XSTS(第三方游戏登录令牌验证) - XBOX/Microsoft Store - XBOX/微软商店
+40.90.8.102 xsts.auth.xboxlive.com
+# Xbox.com 网页相关 - XBOX/Microsoft Store - XBOX/微软商店
+23.41.36.71 www.xbox.com
+23.41.36.71 assets.xbox.com
+23.41.36.71 assets-www.xbox.com
+23.41.36.71 compass-ssl.xbox.com
+# Xbox Live相关服务CDN(Akamai)-1 - XBOX/Microsoft Store - XBOX/微软商店
+23.0.220.7 editorial.xboxlive.com
+23.0.220.7 peoplehub.xboxlive.com
+23.0.220.7 rta.xboxlive.com
+23.0.220.7 images-eds-ssl.xboxlive.com
+23.0.220.7 gameclipscontent-d2009.xboxlive.com
+23.0.220.7 xboxcare.xboxlive.com
+23.0.220.7 titlehub.xboxlive.com
+23.0.220.7 activityhub.xboxlive.com
+23.0.220.7 xnotify.xboxlive.com
+23.0.220.7 xforgeassets001.xboxlive.com
+23.0.220.7 xforgeassets002.xboxlive.com
+# Xbox Live相关服务CDN(Akamai)-2 - XBOX/Microsoft Store - XBOX/微软商店
+219.76.10.198 images-eds.xboxlive.com
+219.76.10.198 xbl-smooth.xboxlive.com
+219.76.10.198 compass.xboxlive.com
+219.76.10.198 titlehub.xboxlive.com
+219.76.10.198 gameclipscontent-d2009.xboxlive.com
+# Xbox游戏云同步 - XBOX/Microsoft Store - XBOX/微软商店
+13.107.42.15 titlestorage.xboxlive.com
+# Xbox APP 首页游戏加载 - XBOX/Microsoft Store - XBOX/微软商店
+23.202.33.136 catalog.gamepass.com
+# Xbox APP 游戏目录列表加载 - XBOX/Microsoft Store - XBOX/微软商店
+13.107.213.47 beige.xboxservices.com
+# Xbox APP 会员权益跨区领取(反向代理) - XBOX/Microsoft Store - XBOX/微软商店
+140.245.84.81 profile.gamepass.com
+# Xbox APP 下载地址读取(官方IP+反向代理) - XBOX/Microsoft Store - XBOX/微软商店
+43.224.23.8 packagespc.xboxlive.com
+# 商店 下载地址读取(官方IP+反向代理) - XBOX/Microsoft Store - XBOX/微软商店
+140.245.84.81 fe3cr.delivery.mp.microsoft.com
+# 商店/Xbox APP 应用信息获取(官方IP+反向代理) - XBOX/Microsoft Store - XBOX/微软商店
+43.224.23.8 displaycatalog.mp.microsoft.com
+# 商店图片(apps/games) - XBOX/Microsoft Store - XBOX/微软商店
+104.83.197.140 store-images.s-microsoft.com
+# 商店网页(apps/games) - XBOX/Microsoft Store - XBOX/微软商店
+104.69.164.62 storeedgefd.dsx.mp.microsoft.com
+# 商店下载/游戏下载(大陆地区)/Windows系统更新 - XBOX/Microsoft Store - XBOX/微软商店
+116.153.62.189 assets1.xboxlive.cn
+116.153.62.189 assets2.xboxlive.cn
+116.153.62.189 dl.delivery.mp.microsoft.com
+116.153.62.189 tlu.dl.delivery.mp.microsoft.com
+# 游戏下载(国际) - XBOX/Microsoft Store - XBOX/微软商店
+23.75.23.162 xvcf1.xboxlive.com
+23.75.23.162 xvcf2.xboxlive.com
+23.75.23.162 assets1.xboxlive.com
+23.75.23.162 assets2.xboxlive.com
+# LM Studio - developer - 开发者相关
+2606:4700:83b7::5cca:6562:e100 lmstudio.ai
+2606:4700:83b7::5cca:6562:e100 search.lmstudio.ai
+2606:4700:83b7::5cca:6562:e100 venvstacks.lmstudio.ai
+2606:4700:83b7::5cca:6562:e100 api.lmstudio.ai
+2606:4700:83b7::5cca:6562:e100 releases.lmstudio.ai
+2606:4700:83b7::5cca:6562:e100 installers.lmstudio.ai
+2606:4700:83b7::5cca:6562:e100 files.lmstudio.ai
+2606:4700:83b7::5cca:6562:e100 www.lmstudio.ai
+2606:4700:83b7::5cca:6562:e100 scaffolds-manifest.lmstudio.ai
+2606:4700:83b7::5cca:6562:e100 updates.lmstudio.ai
+2606:4700:83b7::5cca:6562:e100 extensions.lmstudio.ai
+2606:4700:83b7::5cca:6562:e100 versions-prod.lmstudio.ai
+2606:4700:83b7::5cca:6562:e100 model.lmstudio.ai
+2606:4700:83b7::5cca:6562:e100 versions-rocm.lmstudio.ai
+2606:4700:83b7::5cca:6562:e100 models.lmstudio.ai
+2606:4700:83b7::5cca:6562:e100 versions.lmstudio.ai
+# Flathub 下载 - developer - 开发者相关
+151.101.129.91 flathub.org
+151.101.129.91 dl.flathub.org
+# pytorch 下载 - developer - 开发者相关
+13.226.70.128 download.pytorch.org
+13.226.70.128 discuss.pytorch.org
+13.226.70.128 hud.pytorch.org
+13.226.70.128 hud2.pytorch.org
+13.226.70.128 assets.pytorch.org
+13.226.70.128 docs.pytorch.org
+# cloudflare.com - developer - 开发者相关
+2606:4700:83b5:0:25:5148:bfba:8100 cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 www.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 dash.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 cdnjs.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 ajax.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 support.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 blog.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 community.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 radar.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 workers.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 pages.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 speed.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 dash.teams.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 one.dash.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 static.cloudflareinsights.com
+2606:4700:83b5:0:25:5148:bfba:8100 geolocation.onetrust.com
+2606:4700:83b5:0:25:5148:bfba:8100 gates.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 challenges.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 platform.dash.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 developers.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 api.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 abuse.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 research.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 ai.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 partners.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 peering.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 new.blog.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 amp.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 malcolm.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 deploy.workers.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 opaque.research.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 teams.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 report-uri.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 ct.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 cf-assets.www.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 events.www.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 info.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 rpki.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 performance.radar.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 r2-calculator.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 assets.www.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 api.radar.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 pkg.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 tls13.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 http2.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 discord.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 crypto.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 migp.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 dns.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 roughtime.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 report.teams.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 challenge.developers.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 images.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 classic.radar.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 drand.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 origin-pull.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 privacypass.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 warp.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 mobilesdk.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 files.research.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 opaque-full.research.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 help.teams.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 content.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 rdap.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 try.cloudflare.com
+2606:4700:83b5:0:25:5148:bfba:8100 time.cloudflare.com
+# huggingface 模型下载 - developer - 开发者相关
+13.226.70.157 cdn-lfs.hf.co
+13.226.70.157 cdn-lfs-us-1.hf.co
+13.226.70.157 cdn-lfs-eu-1.hf.co
+13.226.70.157 transfer.xethub.hf.co
+13.226.70.157 transfer.xethub.hf.co
+13.226.70.157 cas-bridge.xethub.hf.co
+# Ollama  网页/模型下载[Cloudflare] - developer - 开发者相关
+2606:4700:83bb::8c:6eac:1100 ollama.ai
+2606:4700:83bb::8c:6eac:1100 registry.ollama.ai
+2606:4700:83bb::8c:6eac:1100 www.ollama.ai
+2606:4700:83bb::8c:6eac:1100 models.ollama.com
+2606:4700:83bb::8c:6eac:1100 dd20bb891979d25aebc8bec07b2b3bbc.r2.cloudflarestorage.com
+# gradle - developer - 开发者相关
+2606:4700:83b5:0:25:5148:bfba:8100 gradle.org
+2606:4700:83b5:0:25:5148:bfba:8100 docs.gradle.org
+2606:4700:83b5:0:25:5148:bfba:8100 plugins.gradle.org
+2606:4700:83b5:0:25:5148:bfba:8100 guides.gradle.org
+2606:4700:83b5:0:25:5148:bfba:8100 blog.gradle.org
+2606:4700:83b5:0:25:5148:bfba:8100 services.gradle.org
+2606:4700:83b5:0:25:5148:bfba:8100 discuss.gradle.org
+2606:4700:83b5:0:25:5148:bfba:8100 issues.gradle.org
+2606:4700:83b5:0:25:5148:bfba:8100 ge.gradle.org
+2606:4700:83b5:0:25:5148:bfba:8100 builds.gradle.org
+2606:4700:83b5:0:25:5148:bfba:8100 help.gradle.org
+2606:4700:83b5:0:25:5148:bfba:8100 forums.gradle.org
+2606:4700:83b5:0:25:5148:bfba:8100 repo.gradle.org
+2606:4700:83b5:0:25:5148:bfba:8100 login.gradle.org
+# echarts/maven(Apache) - developer - 开发者相关
+146.75.46.132 echarts.apache.org
+146.75.46.132 maven.apache.org
+146.75.46.132 www.apache.org
+146.75.46.132 apache.org
+# gitlab - developer - 开发者相关
+2606:4700:83b5:0:25:5148:bfba:8100 gitlab.com
+2606:4700:83b5:0:25:5148:bfba:8100 www.gitlab.com
+2606:4700:83b5:0:25:5148:bfba:8100 packages.gitlab.com
+2606:4700:83b5:0:25:5148:bfba:8100 page.gitlab.com
+2606:4700:83b5:0:25:5148:bfba:8100 support.gitlab.com
+2606:4700:83b5:0:25:5148:bfba:8100 customers.gitlab.com
+2606:4700:83b5:0:25:5148:bfba:8100 staging.gitlab.com
+2606:4700:83b5:0:25:5148:bfba:8100 federal-support.gitlab.com
+2606:4700:83b5:0:25:5148:bfba:8100 registry.gitlab.com
+2606:4700:83b5:0:25:5148:bfba:8100 levelup.gitlab.com
+2606:4700:83b5:0:25:5148:bfba:8100 chef.gitlab.com
+# shields.io - developer - 开发者相关
+2606:4700:83b2:62e6:c7b2:4086:f89a:f100 img.shields.io
+2606:4700:83b2:62e6:c7b2:4086:f89a:f100 shields.io
+2606:4700:83b2:62e6:c7b2:4086:f89a:f100 raster.shields.io
+2606:4700:83b2:62e6:c7b2:4086:f89a:f100 staging.shields.io
+2606:4700:83b2:62e6:c7b2:4086:f89a:f100 img-test.shields.io
+2606:4700:83b2:62e6:c7b2:4086:f89a:f100 www.shields.io
+# stackoverflow - developer - 开发者相关
+2606:4700:83b2:62e6:c7b2:4086:f89a:f100 stackoverflow.com
+2606:4700:83b2:62e6:c7b2:4086:f89a:f100 stackexchange.com
+2606:4700:83b2:62e6:c7b2:4086:f89a:f100 cdn.sstatic.net
+# JetBrains 开发者工具/插件/主题下载 - developer - 开发者相关
+13.35.162.87 plugins.jetbrains.com
+13.35.162.87 download.jetbrains.com
+13.35.162.87 cache-redirector.jetbrains.com
+# dl.google.com - developer - 开发者相关
+58.254.149.161 dl.google.com
+# BootstrapCDN - CDN for open-source - 前端静态资源CDN
+2606:4700:83bb:0:fcba:b2db:857:f100 bootstrapcdn.com
+2606:4700:83bb:0:fcba:b2db:857:f100 maxcdn.bootstrapcdn.com
+2606:4700:83bb:0:fcba:b2db:857:f100 stackpath.bootstrapcdn.com
+2606:4700:83bb:0:fcba:b2db:857:f100 netdna.bootstrapcdn.com
+2606:4700:83bb:0:fcba:b2db:857:f100 current.bootstrapcdn.com
+2606:4700:83bb:0:fcba:b2db:857:f100 test.bootstrapcdn.com
+# Getbootstrap - CDN for open-source - 前端静态资源CDN
+2606:4700:83b1:fc13:6523:b0cc:3d34:a100 getbootstrap.com
+2606:4700:83b1:fc13:6523:b0cc:3d34:a100 icons.getbootstrap.com
+2606:4700:83b1:fc13:6523:b0cc:3d34:a100 themes.getbootstrap.com
+2606:4700:83b1:fc13:6523:b0cc:3d34:a100 blog.getbootstrap.com
+2606:4700:83b1:fc13:6523:b0cc:3d34:a100 maxcdn.bootstrapcdn.com
+# Fontawesome - CDN for open-source - 前端静态资源CDN
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 use.fontawesome.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 fontawesome.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 img.fortawesome.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 kit.fontawesome.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 pro.fontawesome.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 kit-pro.fontawesome.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 kit-free.fontawesome.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 ka-p.fontawesome.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 ka-f.fontawesome.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 kit-uploads.fontawesome.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 site-assets.fontawesome.com
+# UNPKG - CDN for open-source - 前端静态资源CDN
+2606:4700:83b5:0:25:5148:bfba:8100 unpkg.com
+# jQuery - CDN for open-source - 前端静态资源CDN
+199.232.210.137 code.jquery.com
+# Jsdelivr - CDN for open-source - 前端静态资源CDN
+2606:4700:83b1:fc13:6523:b0cc:3d34:a100 cdn.jsdelivr.net
+# Jsdelivr[fastly] - CDN for open-source - 前端静态资源CDN
+2A04:4E42:0600::0485 fastly.jsdelivr.net
+# Cdnjs - CDN for open-source - 前端静态资源CDN
+2606:4700:83b1:fc13:6523:b0cc:3d34:a100 cdnjs.com
+2606:4700:83b1:fc13:6523:b0cc:3d34:a100 cdnjs.cloudflare.com
+# CloudFlare Challenges验证码 - For Web - 网页相关
+2606:4700:83b2:62e6:c7b2:4086:f89a:f100 challenges.cloudflare.com
+2606:4700:83b2:62e6:c7b2:4086:f89a:f100 research.cloudflare.com
+2606:4700:83b2:62e6:c7b2:4086:f89a:f100 pp-attester-turnstile.research.cloudflare.com
+2606:4700:83b2:62e6:c7b2:4086:f89a:f100 pp-attester-turnstile-dev.research.cloudflare.com
+# Google/Chrome翻译 - For Web - 网页相关
+2404:6800:4008:c15::84 translate.google.com
+2404:6800:4008:c15::84 translate.googleapis.com
+2404:6800:4008:c15::84 translate-pa.googleapis.com
+2404:6800:4008:c15::84 translation.googleapis.com
+# TMDB/theMovieDB 网页/图片/API - For Web - 网页相关
+2600:9000:223b:c400:7:7ef1:7100:93a1 tmdb.org
+2600:9000:223b:c400:7:7ef1:7100:93a1 image.tmdb.org
+2600:9000:223b:c400:7:7ef1:7100:93a1 images.tmdb.org
+2600:9000:223b:c400:7:7ef1:7100:93a1 api.tmdb.org
+2600:9000:223b:c400:7:7ef1:7100:93a1 files.tmdb.org
+2600:9000:223b:c400:7:7ef1:7100:93a1 themoviedb.org
+2600:9000:223b:c400:7:7ef1:7100:93a1 api.themoviedb.org
+2600:9000:223b:c400:7:7ef1:7100:93a1 www.themoviedb.org
+2600:9000:223b:c400:7:7ef1:7100:93a1 auth.themoviedb.org
+# Tracker.gg/Tracker Network 网页/图片 - For Web - 网页相关
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 tracker.network
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 r6.tracker.network
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 rocketleague.tracker.network
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 api.rocketleague.tracker.network
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 cdn.tracker.network
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 rocketleague-beta.tracker.network
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 prebid-analytics.tracker.network
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 r6-beta.tracker.network
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 overwolf-analytics.tracker.network
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 live.tracker.network
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 rocketleaguetest.tracker.network
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 search-api.tracker.network
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 dev.tracker.network
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 r6-cdn.tracker.network
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 csgo.tracker.network
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 twitch.tracker.network
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 lfg-api.tracker.network
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 cdnjs.cloudflare.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 code.ionicframework.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 trackercdn.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 avatars.trackercdn.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 imgsvc.trackercdn.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 titles.trackercdn.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 thetrackernetwork.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 notifications.thetrackernetwork.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 cdn.thetrackernetwork.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 api.thetrackernetwork.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 ogimage.thetrackernetwork.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 www.thetrackernetwork.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 azure.thetrackernetwork.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 auth.thetrackernetwork.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 fortnitetracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 db.fortnitetracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 statsv2.fortnitetracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 api.fortnitetracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 files.fortnitetracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 replays.fortnitetracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 www.fortnitetracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 replays-api.fortnitetracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 scrims-api.fortnitetracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 cod.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 apex.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 account.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 www.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 admin.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 link.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 api-staging.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 trn-staging.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 feedback.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 forhonor.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 cod-staging.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 mail.marketing.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 avatar-xbl.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 division.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 ingest-api.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 shop.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 avatar-cdn.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 cod-cdn.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 valorant.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 csgo-staging.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 bloodhunt.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 ghostcms.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 api.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 splitgate.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 freefire.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 public-api.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 lol.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 hyperscape.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 csgo.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 tft.tracker.gg
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 realmtracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 www.realmtracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 db.destinytracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 destinytracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 demo.destinytracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 s1.destinytracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 s4.destinytracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 tooltips.destinytracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 cdn.destinytracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 s2.destinytracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 api.insights.destinytracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 db-staging.destinytracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 insights.destinytracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 db-api.destinytracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 status.destinytracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 www.destinytracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 api-insights.destinytracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 staging.destinytracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 battlefieldtracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 api.battlefieldtracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 staging.battlefieldtracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 www.battlefieldtracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 halotracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 www.halotracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 legacy.halotracker.com
+2606:4700:83b8:ce99:328a:abe7:3ff0:e100 stats.halotracker.com
+# IMDB - For Web - 网页相关
+13.35.7.62 imdb.com
+13.35.7.62 www.imdb.com
+13.35.7.62 secure.imdb.com
+13.35.7.62 s.media-imdb.com
+13.35.7.62 us.dd.imdb.com
+13.35.7.62 www.imdb.to
+13.35.7.62 imdb-webservice.amazon.com
+13.35.7.62 origin-www.imdb.com
+13.35.7.62 origin.www.geo.imdb.com
+13.35.7.62 dqpnq362acqdi.cloudfront.net
+13.35.7.62 m.media-amazon.com
+13.35.7.62 Images-na.ssl-images-amazon.com
+13.35.7.62 images-fe.ssl-images-amazon.com
+13.35.7.62 images-eu.ssl-images-amazon.com
+13.35.7.62 ia.media-imdb.com
+13.35.7.62 f.media-amazon.com
+13.35.7.62 imdb-video.media-imdb.com
+13.35.7.62 dqpnq362acqdi.cloudfront.net
+# DeepL翻译 - For Web - 网页相关
+2606:4700:83b1:fc13:6523:b0cc:3d34:a100 s.deepl.com
+2606:4700:83b1:fc13:6523:b0cc:3d34:a100 static.deepl.com
+2606:4700:83b1:fc13:6523:b0cc:3d34:a100 www.deepl.com
+2606:4700:83b1:fc13:6523:b0cc:3d34:a100 www2.deepl.com
+2606:4700:83b1:fc13:6523:b0cc:3d34:a100 appdownload.deepl.com
+2606:4700:83b1:fc13:6523:b0cc:3d34:a100 clearance.deepl.com
+2606:4700:83b1:fc13:6523:b0cc:3d34:a100 dict-audio.deepl.com
+2606:4700:83b1:fc13:6523:b0cc:3d34:a100 hs.deepl.com
+2606:4700:83b1:fc13:6523:b0cc:3d34:a100 support.deepl.com
+# curseforge 网页访问 - For Web - 网页相关
+2606:4700:83b1:d5f1:aeeb:2829:d654:2100 www.curseforge.com
+2606:4700:83b1:d5f1:aeeb:2829:d654:2100 legacy.curseforge.com
+# curseforge MOD下载 - For Web - 网页相关
+2600:9000:223b:7a00:7:7ef1:7100:93a1 edge.forgecdn.net
+2600:9000:223b:7a00:7:7ef1:7100:93a1 configs.forgecdn.net
+2600:9000:223b:7a00:7:7ef1:7100:93a1 media.forgecdn.net
+2600:9000:223b:7a00:7:7ef1:7100:93a1 addons-ecs.forgesvc.net
+2600:9000:223b:7a00:7:7ef1:7100:93a1 modloaders.forgecdn.net
+2600:9000:223b:7a00:7:7ef1:7100:93a1 modloaders-cdn.overwolf.wtf
+2600:9000:223b:7a00:7:7ef1:7100:93a1 mediafilez.forgecdn.net
+2600:9000:223b:7a00:7:7ef1:7100:93a1 mediafiles.forgecdn.net
+# Notion 笔记 - For Service - 服务型程序&&网站相关
+2606:4700:83b2:62e6:c7b2:4086:f89a:f100 www.notion.so
+2606:4700:83b2:62e6:c7b2:4086:f89a:f100 msgstore.www.notion.so
+2606:4700:83b2:62e6:c7b2:4086:f89a:f100 desktop-release.notion-static.com
+2606:4700:83b2:62e6:c7b2:4086:f89a:f100 exp.notion.so
+# Notion 附件上传/emoji - For Service - 服务型程序&&网站相关
+52.218.217.24 s3.us-west-2.amazonaws.com
+52.218.217.24 notion-emojis.s3-us-west-2.amazonaws.com
+# Notion 附件下载 - For Service - 服务型程序&&网站相关
+13.225.183.82 file.notion.so
+# Bitwarden - For Service - 服务型程序&&网站相关
+2606:4700:83b2:62e6:c7b2:4086:f89a:f100 bitwarden.com
+2606:4700:83b2:62e6:c7b2:4086:f89a:f100 vault.bitwarden.com
